@@ -2,6 +2,10 @@
 
 **This repository contains a weather application that provides real-time weather information for various locations. Users can easily access current weather conditions, forecasts, and other relevant data with a simple and intuitive interface.**
 
+### **Deployment:**
+
+The application is deployed and accessible at https://weather-app-nine-beta-49.vercel.app
+
 ### **Features:**
 
 - **Current Weather:** Display current weather conditions including temperature, humidity, wind speed, and more.
@@ -24,10 +28,6 @@
 4. **Configure Environment Variables:** Set up environment variables for API keys and other configuration settings.
 5. **Start the Application:** `npm start` to run the application locally.
 6. **Access the Application:** Open your web browser and navigate to the specified address to view the weather information.
-
-### **Deployment:**
-
-The application is deployed and accessible at https://weather-app-nine-beta-49.vercel.app
 
 ### **Contributions:**
 
